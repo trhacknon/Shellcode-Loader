@@ -22,7 +22,7 @@ Secara teori shellcode dapat melakukan aksi apapun. Awalnya shellcode hanyalah i
 
 Untuk melihat kumpulan shellcode, kunjungi [shellcodes repository](https://github.com/ReversingID/shellcodes).
 
-Untuk melakukan penyuntikan shellcode ke process, kunjungi [injection repository](https://github.com/ReversingID/injection).
+Untuk melakukan penyuntikan shellcode ke process, kunjungi [injection repository](https://github.com/trhacknon/injection2).
 
 Untuk penyederhanaan, shellcode yang digunakan akan dibatasi hanya kepada kode berikut:
 
