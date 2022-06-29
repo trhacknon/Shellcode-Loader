@@ -20,7 +20,7 @@ Catatan: teknik-teknik akan difokuskan kepada arsitektur x86.
 
 Secara teori shellcode dapat melakukan aksi apapun. Awalnya shellcode hanyalah instruksi untuk memanggil shell. Shellcode kemudian berkembang dan memiliki tujuan bervariasi seperti menciptakan user, menghapus data, dll.
 
-Untuk melihat kumpulan shellcode, kunjungi [shellcodes repository](https://github.com/ReversingID/shellcodes).
+Untuk melihat kumpulan shellcode, kunjungi [shellen repository](https://github.com/trhacknon/shellen).
 
 Untuk melakukan penyuntikan shellcode ke process, kunjungi [injection repository](https://github.com/trhacknon/injection2).
 
